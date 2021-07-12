@@ -1,0 +1,48 @@
+<html>
+    <head>
+        <title>my profile page</title>
+        </head>
+    
+<body background="D:\vishal1\csk\image\Glare-Orange-Abstract-Wallpaper-28382.jpg">
+<div>
+<h1>Vishal Rajendra Kamble</h1>
+<h2>Hii..</br> My name is vishal rajendra and I am M.C.A 1 year studant in government college of engineering,karad <hr/> </h2>
+
+<h1>hobbies:-</h1>
+<h2>1).playing cricket </h2>
+<h2>2).learn new technology </h2>
+<h2>3).reading a book <hr/> </h2>
+<h1>Education:-</h1>
+<table border="2px">
+    <tr align="center">
+    <th colspan="2">
+          <h1>10th marks</h1>
+    </th>
+    <tr align="center">
+        <td><h2>School Name:-Vita highschool vita, vita.
+           </h2></td>
+        <td><h2>percentage:- 55.87%</h2></td>
+    </tr>
+    <th colspan="2">
+        <h1>12th marks</h1>
+  </th>
+  <tr align="center">
+      <td><h2>School Name:-Adarsh Mahavidyalya,vita. (hpmv)
+       
+         </h2></td>
+      <td><h2>percentage:-  67.68%</h2></td>
+  </tr>
+</tr>
+</table>
+<hr/>
+<h1>Social media:-</h1>
+<img src="D:\VISHAL\HTML\photo\1 (2).png" width="30px" height="30px" >
+<a href="https://instagram.com/vishal_creation_008?utm_medium=copy_link"><h3>instagram</h3></a>
+<img src="D:\VISHAL\HTML\photo\youtube-logo-png-2067.png" width="30px" height="30px">
+<a href="https://instagram.com/vishal_creation_008?utm_medium=copy_link"><h3>Youtube</h3></a>
+<img src="D:\VISHAL\HTML\photo\1.png" width="30px" height="30px">
+<a href="https://web.whatsapp.com/"><h3>whatsApp</h3></a>
+
+</div>
+</body>
+</html>
