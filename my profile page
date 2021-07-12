@@ -36,11 +36,11 @@
 </table>
 <hr/>
 <h1>Social media:-</h1>
-<img src="D:\VISHAL\HTML\photo\1 (2).png" width="30px" height="30px" >
+<img src="D:\VISHAL\HTML\photo\1 (2).png" width="30px" height="30px" alt="instagram img">
 <a href="https://instagram.com/vishal_creation_008?utm_medium=copy_link"><h3>instagram</h3></a>
-<img src="D:\VISHAL\HTML\photo\youtube-logo-png-2067.png" width="30px" height="30px">
+<img src="D:\VISHAL\HTML\photo\youtube-logo-png-2067.png" width="30px" height="30px" alt="youtube img">
 <a href="https://instagram.com/vishal_creation_008?utm_medium=copy_link"><h3>Youtube</h3></a>
-<img src="D:\VISHAL\HTML\photo\1.png" width="30px" height="30px">
+<img src="D:\VISHAL\HTML\photo\1.png" width="30px" height="30px" alt="whatsapp img">
 <a href="https://web.whatsapp.com/"><h3>whatsApp</h3></a>
 
 </div>
