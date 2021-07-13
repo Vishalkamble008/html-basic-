@@ -1,0 +1,57 @@
+<html>
+    <head>
+        <title>
+            Student registration form
+        </title>
+        <style>
+            .img{
+            width;100%;
+            height:auto;
+            text-align:center;
+           
+            color:red;
+            }
+            </style>
+    </head>
+    <body>
+        
+<div class= "img">
+        <form action="">
+           
+            <label for="Father's"> Father's Name :</label>
+            <input type="text" name="Father's"  /><br/>
+       
+            
+            <label for="bday"> Date of birth</label>
+            <input type="date" name="bday" value="date"/><br/>
+            <label for="Gender">Gender :</label>
+            <input type="radio" name="Gender"  />
+            <label for="Gender">Female</label>
+            <input type="radio" name="Gender"  >
+            <label for="Gender">Male</label><br/>
+            <label for="Course"> Course Appled :</label>
+            <input type="text" name="Course" /><br/>
+            <label for="Mobile"> Mobile Number :</label>
+            <input type="number" name="Mobile" /><br/>
+            <label for="Id"> Email Id:</label>
+            <input type="text" name="Id" /><br/>
+            <label for="">Adress:</label><br/>
+            <textarea name="Adress" cols="30" rows="5"></textarea><br/>
+            <table border="2" width="200px "height="100px" align="center">
+                <tr>
+                    <td >
+
+                    </td>
+                </tr>
+            
+        </table>
+        <input type="button" value="upload img" /><br/>
+        <input type="submit" value="submit"/>
+        <input type="reset" value="reset"/>
+    
+        </form>
+
+    </div>
+    </body>
+   
+</html>
